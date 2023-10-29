@@ -11,7 +11,7 @@ Calculating  Fibonacci  Numbers
   -And initialize nextTerm for the nth term of Fibonacci
 
 
--Then it will give an output as "Enter the number of terms"
+- Then it will give an output as "Enter the number of terms"
 
 
   -The user will input the number as n 
