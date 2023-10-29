@@ -29,17 +29,17 @@ Calculating  Fibonacci  Numbers
    -if  (i==2) it will display 1 as the second term of the Fibonacci sequence 
 
 
--Now  we add both terms to get the third term for this we will use   
+- Now  we add both terms to get the third term for this we will use   
 nextTerm = a1 + a2
 
 
--Then we will assign a1 the value of a2
+- Then we will assign a1 the value of a2
 
 
 -And assign a2 the value of  nextTerm 
 
 
--By printing nextTerm we will get the list of required Fibonacci terms 
+- By printing nextTerm we will get the list of required Fibonacci terms 
 
 
 -Stop
