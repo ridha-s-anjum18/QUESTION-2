@@ -17,7 +17,7 @@ Calculating  Fibonacci  Numbers
   -The user will input the number as n 
 
 
--Now will use FOR LOOP 
+- Now will use FOR LOOP 
      for (int i = 1; i <= n; ++i)   for the Fibonacci series 
 
 
